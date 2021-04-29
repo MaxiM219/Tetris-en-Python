@@ -3,3 +3,5 @@ Tetris creado en Python, trabajo desarrollado para "Algoritmos I" de la Facultad
 
 Antes de iniciar el juego se necesitará la librería de "gamelib", desarrollado por dessaya.
 https://github.com/dessaya/python-gamelib
+
+piezas.txt contiene las coordenadas de las piezas y las rotaciones de cada una.
