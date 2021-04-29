@@ -1,0 +1,10 @@
+max;200
+Ryu;25
+Dan;20
+Chr;15
+Akm;12
+Ken;10
+Chl;8
+Adn;7
+Ryu;6
+Ken;5
